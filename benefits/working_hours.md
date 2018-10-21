@@ -8,7 +8,7 @@ Some things to note:
 
 - We do not have a specific start time but we do have our All Hands Mondays and Fridays at 9:50am [EST](https://time.is/EST), and Wednesdays at 9.30am EST, so you should get into the office or Microsoft Teams in our #announcements channel.
 
-- Likewise there isn't a time we expect everyone to leave the office. Of course, if you're leaving at 4.30pm EST every day and are having problems delivering on your commitments, someone will likely provide you with [feedback](https://github.com/scopeweb/handbook/blob/working_hours/policies/continuous_feedback.md) to help improve things.
+- Likewise there isn't a time we expect everyone to leave the office. Of course, if you're leaving at 4.30pm EST every day and are having problems delivering on your commitments, someone will likely provide you with feedback to help improve things.
 
 - Pressure can creep in around deadlines and sometimes staying late to ensure a smooth launch or to help diagnose and fix a problem is a necessity. However, these occassions should be very rare. If you regularly feel this pressure, say more than twice a year, then speak to a colleague.
 

@@ -37,3 +37,4 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 ### Benefits & Perks
 * [Flexible Holiday](benefits/flexible_holiday.md) - We trust you to take as much holiday as you need
 * [Flexible Working Hours](benefits/working_hours.md) - We are flexible with what hours you work
+* [Flexible Working Days](benefits/flexible_working.md) - We are flexible to the amount of days you work in a week
