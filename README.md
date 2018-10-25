@@ -35,8 +35,14 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 * [All Roles](roles/)
 
 ### Benefits & Perks
+
 * [Flexible Holiday](benefits/flexible_holiday.md) - We trust you to take as much holiday as you need
 * [Flexible Working Hours](benefits/working_hours.md) - We are flexible with what hours you work
 * [Flexible Working Days](benefits/flexible_working.md) - We are flexible to the amount of days you work in a week
 * [Credit Card](benefits/company_credit_card.md) – We trust you with a credit card for conferences, learning materials and equipment
 * [Remote Working](benefits/remote_working.md) – We offer part-time remote working for all our staff with some roles being full-time friendly too
+* [Fortnite Friday](benefits/fortnite_friday.md) - We help you get the wins you need, to flex towards any of your friends and family members
+
+### Welfare
+
+* [Sick Leave](guides/welfare/sick_leave.md)

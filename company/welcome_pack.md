@@ -78,7 +78,7 @@ Academy Engineers: you can skip this for now, but you will probably need it once
 
 #### Engineers
 
-* [ ] Setup for Azure account (https://www.vultr.com/register/ – with 2FA)
+* [ ] Setup for Vultr account (https://www.vultr.com/register/ – with 2FA)
 * [ ] Jenkins
 
 ### Setting up your Machine
