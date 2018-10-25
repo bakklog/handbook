@@ -69,3 +69,13 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 * [Salary Reviews](guides/compensation/salary_reviews.md)
 * [Expenses](guides/compensation/expenses.md)
 * [Exit Interviews](guides/exit_interviews.md)
+
+#### Security
+
+* [Acceptable Usage Policy](guides/security/acceptable_usage_policy.md)
+* [Security Policy](guides/security/security_policy.md)
+* [BYOD Policy](guides/security/byod.md)
+* [Laptop & Phone Security](guides/security/protect_the_company.md)
+* [Server Security](guides/security/server_setup_guidelines.md)
+* [What To Do If Your Device Is Lost Or Stolen](guides/security/lost_or_stolen.md)
+* [Last Day](guides/security/last_day.md)
