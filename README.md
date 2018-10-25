@@ -59,3 +59,9 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 * [Team Norms](team-norms)
 * [Support Desk](guides/process/support/README.md)
 * [Sales Handbook](https://github.com/scopeweb/sales-handbook)
+* [Marketing Assets](https://github.com/scopeweb/marketing-assets)
+* [Blogging at Scope Web](https://github.com/scopeweb/blog)
+
+#### People
+
+* [Our Hiring Process](guides/hiring/README.md)
