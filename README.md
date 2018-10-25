@@ -65,3 +65,4 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 #### People
 
 * [Our Hiring Process](guides/hiring/README.md)
+* [Salary & Pay Slips](guides/compensation/salary_pay_slips.md)
