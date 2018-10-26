@@ -89,6 +89,6 @@ There will be a scheduled [workshop](https://github.com/scopeweb/learn/tree/mast
 
 #### Engineers
 
-To get your machine set up with some essentials we've created [First Boot](https://github.com/scopeweb/first-day).
+To get your machine set up with some essentials we've created [First Day](https://github.com/scopeweb/first-day).
 
 First Boot will install applications like Chrome, Microsoft Teams, and Sequel Pro as well as installing the latest version of Ruby using `rbenv`, and the latest version of Node using `nvm`.
