@@ -19,6 +19,6 @@ If you would like a credit card, download the form of our SharePoint, and send i
 
 ## Receipts
 
-It's important that we can distinguish between personal payments and payments issued through company credit cards. To help us to do this, can you send all receipts (they must be TAX receipts) for purchases made on credit cards to `card-receipts@scopeweb.nyc`.
+It's important that we can distinguish between personal payments and payments issued through company credit cards. To help us to do this, can you send all receipts (they must be TAX receipts) for purchases made on credit cards to `finance@scopeweb.nyc`.
 
-Expenses that you've paid for personally, should be put into the [client portal](https://clients.scopeweb.nyc) and be given a proper description, making it easy to recognise.
+Expenses that you've paid for personally, should be put into the [Company Portal](https://clients.scopeweb.nyc) and be given a proper description, making it easy to recognise.
