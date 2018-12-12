@@ -2,7 +2,7 @@
 
 Keeping laptops and phones secure is vitally important. We're a software company and many of us have access to secure systems (both our own and our customers).
 
-When setting up new laptops, please ensure you follow the below guidelines and update the security information spreadsheet, which can be found in SharePoint once your Office 365 account ahs been setup.
+When setting up new laptops, please ensure you follow the below guidelines and update the security information spreadsheet, which can be found in SharePoint once your Office 365 account has been setup.
 
 ## Applications
 
