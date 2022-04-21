@@ -1,12 +1,12 @@
-# Scope Web Handbook
+# Bakklog Handbook
 
-At Scope Web, we highly value transparency and with every new product we launch, we share its metrics, including users and traffic, a year after launch date. Being a team of people that love their work, and enjoy challenges they face every day, we continue to improve ourselves, each other, and our results. To empower the people behind Scope Web, we want everyone to understand what is expected of them, the things we value and the things we believe should be avoided.
+At Bakklog, we highly value transparency and with every new product we launch, we share its metrics, including users and traffic, a year after launch date. Being a team of people that love their work, and enjoy challenges they face every day, we continue to improve ourselves, each other, and our results. To empower the people behind Scope Web, we want everyone to understand what is expected of them, the things we value and the things we believe should be avoided.
 
 This handbook should be the starting point for any new team members. It provides an overview of the business and a point of reference for topics such as expense policy, referral bonuses and remote working policies.
 
 ## Our mission
 
-Scope Web's mission is to bring people together through technology; hence why our motto is **Come together, work together, grow together**. We build software, web applications and mobile applications to deliver reliable, yet result driven technologies to our customers. Scope Web is an Agile marketing studio built on relationships, transparency and iterative learning. We merge proven software development techniques with modern marketing strategy and implementation. This is marketing for companies who want to move forward. Rapid iteration over big bang campaigns. We follow a compass, continually checking our direction. We make small adjustments and optimizations and gather user feedback. Our products always improve based on what our audience finds valuable, not what we planned 6 months ago.
+Bakklog's mission is to bring people together through technology; hence why our motto is **Come together, work together, grow together**. We build software, web applications and mobile applications to deliver reliable, yet result driven technologies to our customers. Scope Web is an Agile marketing studio built on relationships, transparency and iterative learning. We merge proven software development techniques with modern marketing strategy and implementation. This is marketing for companies who want to move forward. Rapid iteration over big bang campaigns. We follow a compass, continually checking our direction. We make small adjustments and optimizations and gather user feedback. Our products always improve based on what our audience finds valuable, not what we planned 6 months ago.
 
 ## Our values
 
